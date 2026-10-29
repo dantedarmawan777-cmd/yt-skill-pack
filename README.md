@@ -1,6 +1,6 @@
-# YouTube Skills Pack
+# Skills Pack for Cue / Manus Agents
 
-A pack of 13 reusable agent skills for running faceless YouTube channels end to end: planning, scripting, packaging, SEO, retention, shorts, clips, thumbnails, comments, editing support, and audits.
+A pack of reusable agent skills: a 13-skill YouTube set for running faceless channels end to end, plus a design set (design taste, polish, anti-slop).
 
 ## Skills
 
@@ -19,3 +19,9 @@ A pack of 13 reusable agent skills for running faceless YouTube channels end to 
 - **youtube-thumbnail**: thumbnail design
 
 Each skill lives in its own folder with a SKILL.md.
+
+## Design skills
+
+- **design-taste-frontend**: concept-first frontend and visual design, idea from the subject, anti generic-AI-slop
+- **impeccable**: design polish and QA pass
+- **antislop**: detect and remove AI-slop patterns from copy and design
